@@ -1,18 +1,1 @@
-±¾ÊµÑé½«ÊµÏÖÈçÏÂ¹¦ÄÜ£º¿ª»úºó£¬³õÊ¼»¯ÉãÏñÍ·Ä£¿é£¨OV2640£©£¬Èç¹û³õÊ¼»¯³É¹¦£¬ÔòÌáÊ¾Ñ¡ÔñÄ£Ê½£ºRGB565Ä£Ê½£¬»òÕßJPEGÄ£Ê½¡£KEY0ÓÃÓÚÑ¡ÔñRGB565Ä£Ê½£¬KEY1ÓÃÓÚÑ¡ÔñJPEGÄ£Ê½¡£
-
-    µ±Ê¹ÓÃRGB565Ê±£¬Êä³öÍ¼Ïñ£¨¹Ì¶¨Îª£ºUXGA£©½«¾­¹ýËõ·Å´¦Àí£¨ÍêÈ«ÓÉOV2640µÄDSP¿ØÖÆ£©£¬ÏÔÊ¾ÔÚLCDÉÏÃæ¡£ÎÒÃÇ¿ÉÒÔÍ¨¹ýKEY_UP°´¼üÑ¡Ôñ£º1:1ÏÔÊ¾£¬¼´²»Ëõ·Å£¬Í¼Æ¬²»±äÐÎ£¬µ«ÊÇÏÔÊ¾ÇøÓòÐ¡£¨Òº¾§·Ö±æÂÊ´óÐ¡£©£¬»òÕßËõ·ÅÏÔÊ¾£¬¼´½«1600*1200µÄÍ¼ÏñÑ¹Ëõµ½Òº¾§·Ö±æÂÊ³ß´çÏÔÊ¾£¬Í¼Æ¬±äÐÎ£¬µ«ÊÇÏÔÊ¾ÁËÕû¸öÍ¼Æ¬ÄÚÈÝ¡£Í¨¹ýKE0Y°´¼ü£¬¿ÉÒÔÉèÖÃ¶Ô±È¶È£»KEY1°´¼ü£¬¿ÉÒÔÉèÖÃ±¥ºÍ¶È£»KEY2°´¼ü£¬¿ÉÒÔÉèÖÃÌØÐ§¡£
-
-    µ±Ê¹ÓÃJPEGÄ£Ê½Ê±£¬Í¼Ïñ¿ÉÒÔÉèÖÃÈÎÒâ³ß´ç£¨QQVGA~UXGA£©£¬²É¼¯µ½µÄJPEGÊý¾Ý½«ÏÈ´æ·Åµ½STM32F4µÄÄÚ´æÀïÃæ£¬Ã¿µ±²É¼¯µ½Ò»Ö¡Êý¾Ý£¬¾Í»á¹Ø±ÕDMA´«Êä£¬È»ºó½«²É¼¯µ½µÄÊý¾Ý·¢ËÍµ½´®¿Ú2£¨´ËÊ±¿ÉÒÔÍ¨¹ýÉÏÎ»»úÈí¼þ£¨´®¿ÚÉãÏñÍ·.exe£©½ÓÊÕ£¬²¢ÏÔÊ¾Í¼Æ¬£©£¬Ö®ºóÔÙÖØÐÂÆô¶¯DMA´«Êä¡£ÎÒÃÇ¿ÉÒÔÍ¨¹ýKEY_UPÉèÖÃÊä³öÍ¼Æ¬µÄ³ß´ç£¨QQVGA~UXGA£©¡£Í¨¹ýKEY0°´¼ü£¬¿ÉÒÔÉèÖÃ¶Ô±È¶È£»KEY1°´¼ü£¬¿ÉÒÔÉèÖÃ±¥ºÍ¶È£»KEY2°´¼ü£¬¿ÉÒÔÉèÖÃÌØÐ§¡£
-    
-
-×¢Òâ£º±¾ÊµÑéÐèÒªÓÐALIENTEK OV2640ÉãÏñÍ·Ä£¿é²Å¿ÉÒÔ×ö£¡£¡
-
-
-               	ÕýµãÔ­×Ó@ALIENTEK
-               	2014-10-25
-		¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-                µç»°£º020-38271790
-                ´«Õæ£º020-36773971
-	       	¹ºÂò£º http://shop62057469.taobao.com
-                ¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-         	¼¼ÊõÂÛÌ³£ºwww.openedv.com
+STM32F407 ä½¿ç”¨DMAåŒç¼“å†²çš„æ–¹å¼èŽ·å–å›¾ç‰‡ï¼Œå¹¶ä¸”é€šè¿‡EC200èŽ·å–å½“å‰æ—¶é—´åŠå°†å›¾ç‰‡é€šè¿‡4Gå‘é€åˆ°æœåŠ¡å™¨ã€‚
